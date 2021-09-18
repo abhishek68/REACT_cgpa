@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/REACT_cgpa/static/css/main.f06dd84c.chunk.css",
-    "main.js": "/REACT_cgpa/static/js/main.b81ecbbc.chunk.js",
-    "main.js.map": "/REACT_cgpa/static/js/main.b81ecbbc.chunk.js.map",
-    "runtime-main.js": "/REACT_cgpa/static/js/runtime-main.c65db340.js",
-    "runtime-main.js.map": "/REACT_cgpa/static/js/runtime-main.c65db340.js.map",
-    "static/css/2.0975cee1.chunk.css": "/REACT_cgpa/static/css/2.0975cee1.chunk.css",
-    "static/js/2.604d33a6.chunk.js": "/REACT_cgpa/static/js/2.604d33a6.chunk.js",
-    "static/js/2.604d33a6.chunk.js.map": "/REACT_cgpa/static/js/2.604d33a6.chunk.js.map",
-    "static/js/3.7badb6fe.chunk.js": "/REACT_cgpa/static/js/3.7badb6fe.chunk.js",
-    "static/js/3.7badb6fe.chunk.js.map": "/REACT_cgpa/static/js/3.7badb6fe.chunk.js.map",
-    "index.html": "/REACT_cgpa/index.html",
-    "static/css/2.0975cee1.chunk.css.map": "/REACT_cgpa/static/css/2.0975cee1.chunk.css.map",
-    "static/css/main.f06dd84c.chunk.css.map": "/REACT_cgpa/static/css/main.f06dd84c.chunk.css.map",
-    "static/js/2.604d33a6.chunk.js.LICENSE.txt": "/REACT_cgpa/static/js/2.604d33a6.chunk.js.LICENSE.txt"
+    "main.css": "/EB_react.git/static/css/main.0d02efab.chunk.css",
+    "main.js": "/EB_react.git/static/js/main.bbf4075d.chunk.js",
+    "main.js.map": "/EB_react.git/static/js/main.bbf4075d.chunk.js.map",
+    "runtime-main.js": "/EB_react.git/static/js/runtime-main.1d3c06b3.js",
+    "runtime-main.js.map": "/EB_react.git/static/js/runtime-main.1d3c06b3.js.map",
+    "static/css/2.0975cee1.chunk.css": "/EB_react.git/static/css/2.0975cee1.chunk.css",
+    "static/js/2.7575de99.chunk.js": "/EB_react.git/static/js/2.7575de99.chunk.js",
+    "static/js/2.7575de99.chunk.js.map": "/EB_react.git/static/js/2.7575de99.chunk.js.map",
+    "static/js/3.9ebc4e71.chunk.js": "/EB_react.git/static/js/3.9ebc4e71.chunk.js",
+    "static/js/3.9ebc4e71.chunk.js.map": "/EB_react.git/static/js/3.9ebc4e71.chunk.js.map",
+    "index.html": "/EB_react.git/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/EB_react.git/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.0d02efab.chunk.css.map": "/EB_react.git/static/css/main.0d02efab.chunk.css.map",
+    "static/js/2.7575de99.chunk.js.LICENSE.txt": "/EB_react.git/static/js/2.7575de99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c65db340.js",
+    "static/js/runtime-main.1d3c06b3.js",
     "static/css/2.0975cee1.chunk.css",
-    "static/js/2.604d33a6.chunk.js",
-    "static/css/main.f06dd84c.chunk.css",
-    "static/js/main.b81ecbbc.chunk.js"
+    "static/js/2.7575de99.chunk.js",
+    "static/css/main.0d02efab.chunk.css",
+    "static/js/main.bbf4075d.chunk.js"
   ]
 }
